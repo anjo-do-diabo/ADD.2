@@ -9,8 +9,7 @@
 <link>ignorme</link>
 <thumbnail>https://i.postimg.cc/VLqPq83j/002-IPTV.png</thumbnail>
 <fanart>https://i.postimg.cc/C5mczZPg/IMAGUEN_PRINCIPAL.jpg</fanart>
-</item>
-<item>
+<items><item>
 <title>[COLOR white][B][I]TELEVISAO  [/I][/B][/COLOR]</title>
 <link>ignorme</link>
 <externallink>https://pastebin.com/raw/QM1fti0W$$TSDOWNLOADER$$|User-Agent=Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2 Git:2015-10-19-02e7013</externallink>
@@ -21,8 +20,7 @@
 <date>2021</date>  <!-- format - dd.mm.yyyy -->
 <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
 <fanart>https://i.postimg.cc/C5mczZPg/IMAGUEN_PRINCIPAL.jpg</fanart>
-</item>
-<item>
+<items><item>
 <title>[COLOR white][B][I]FILMES [/I][/B][/COLOR]</title>
 <link>ignorme</link>
 <externallink>https://pastebin.com/raw/a4KqFjGh$$TSDOWNLOADER$$|User-Agent=Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2 Git:2015-10-19-02e7013</externallink>
@@ -33,8 +31,7 @@
 <date>2021</date>  <!-- format - dd.mm.yyyy -->
 <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
 <fanart>https://i.postimg.cc/C5mczZPg/IMAGUEN_PRINCIPAL.jpg</fanart>
-</item>
-<item>
+<items><item>
 <title>[COLOR white][B][I]SERIES      [/I][/B][/COLOR]</title>
 <link>ignorme</link>
 <externallink>https://pastebin.com/raw/1GuLZeq4$$TSDOWNLOADER$$|User-Agent=Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2 Git:2015-10-19-02e7013</externallink>
